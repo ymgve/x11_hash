@@ -1,4 +1,4 @@
-x11_hash (v1.4)
+x11_hash (v1.4win)
 ===========================
 
 Python module for Dash's X11 hashing.
@@ -7,7 +7,7 @@ Python module for Dash's X11 hashing.
 Install
 -------
 
-Python 2.7 is required as well as gcc.
+Python 2.7 is required as well as VCforPython27.msi
 
     $ python setup.py install
 
@@ -27,3 +27,4 @@ Credits
 * Module maintained by @flare https://github.com/nightlydarkcoin/xcoin-hash
 * Module maintained by @vertoe https://github.com/vertoe/darkcoin_hash
 * Module maintained by @jakehaas https://github.com/jakehaas/x11_hash
+* Module updated for Windows by @ymgve https://github.com/ymgve/x11_hash

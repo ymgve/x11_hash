@@ -1,3 +1,4 @@
+import setuptools
 from distutils.core import setup, Extension
 
 x11_hash_module = Extension('x11_hash',

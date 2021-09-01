@@ -1,6 +1,10 @@
 #include "x11hash.h"
 #include <stdlib.h>
+#ifndef _WIN32
 #include <stdint.h>
+#else
+typedef unsigned int uint32_t;
+#endif
 #include <string.h>
 #include <stdio.h>
 
